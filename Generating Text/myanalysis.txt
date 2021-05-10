@@ -1,0 +1,7 @@
+Time complexity analysis:
+For this program there are many different things that have time complexity the
+major ones are the map of 2 string vectors which has the time complexity of the 
+map with string vectors will be O(NlogN) to add to N vector. The time complexity of printMap
+function will be (NLogN)*(M+X) where M is it takes to iterate 
+through key vector and X is the time it takes to iterate 
+throuugh value vector.
